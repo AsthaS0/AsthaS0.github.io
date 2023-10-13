@@ -6,6 +6,16 @@ body {
     color: hotpink;
     text-align: center;
     }
+.assign {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: darkgray;
+    }
+    .assign img {
+    width: 200px;
+    padding: 10px;
+    } 
 h2 {
   color: black;
 }
