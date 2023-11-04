@@ -18,4 +18,19 @@ body {
     } 
 h2 {
   color: black;
+a {
+ text-decoration: none;
+    color: hotpink; 
+    }
+.assign img {
+ padding: 10px;
+    border: 2px solid black; 
 }
+    .assign {
+ border-radius: 20px;
+    }
+    a: hover {
+ text-decoration: none; 
+         color: black; 
+    }
+    
