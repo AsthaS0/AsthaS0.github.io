@@ -1,31 +1,37 @@
 body {
     background: black;
     font-family: Arial, Helvetica, sans-serif;
-    }
-    h1 {
+}
+
+h1 {
     color: hotpink;
     text-align: center;
-    }
+}
+
 .assign {
     display: flex;
     padding: 10px;
     margin: 10px;
     background: #606060;
     border-radius: 20px;
-    }
-    .assign img {
+}
+
+.assign img {
     width: 200px;
     padding: 10px;
-    border: 2px solid black; 
-    } 
+    border: 2px solid black;
+}
+
 h2 {
-  color: black;
+    color: black;
+}
+
 a {
- text-decoration: none;
-    color: hotpink; 
-    }
-    a: hover {
- text-decoration: none; 
-         color: hotpink; 
-    }
-    
+    text-decoration: none;
+    color: hotpink;
+}
+
+a:hover {
+    text-decoration: none;
+    color: hotpink;
+}
